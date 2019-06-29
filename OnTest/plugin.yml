@@ -1,0 +1,9 @@
+name: CobaldLobby
+author: CrazycraftYT
+version: 1.0
+main: fr.crazy.test.Main
+commands:
+  help:
+  discord:
+  twitter:
+  youtube:
